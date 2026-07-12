@@ -1,0 +1,12 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - PRAHARI_DATABASE_URL=sqlite:////data/prahari.db
+    volumes:
+      - prahari-data:/data
+
+volumes:
+  prahari-data:

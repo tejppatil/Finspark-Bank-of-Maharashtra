@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic-settings
+scikit-learn
+cryptography
+# Post-quantum crypto — pure-Python ML-KEM-768 / ML-DSA-65 (NIST FIPS 203/204).
+# Installs as plain wheels on any machine, no C compiler / cmake required.
+kyber-py
+dilithium-py
+# Optional native accelerator (much faster, but needs a C toolchain to build).
+# Prahari uses it automatically if present, otherwise the pure-Python impl above.
+# liboqs-python
+pytest
+httpx

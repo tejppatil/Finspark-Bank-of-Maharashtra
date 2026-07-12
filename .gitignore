@@ -1,0 +1,22 @@
+__pycache__/
+keys/
+*.pyc
+.venv/
+venv/
+.env
+*.db
+.pytest_cache/
+node_modules/
+liboqs/
+
+# design handoff exports (not app source)
+*.zip
+docs/design/
+DOCS/design/
+
+# Documentation files excluded from hackathon submission
+DEMO_SCRIPT.md
+DOCUMENTATION.md
+PROJECT_STATUS.md
+DOCS/
+
