@@ -1,4 +1,5 @@
 # Prahari
+### AI-Powered Privileged-Access & Insider Threat Detection Platform
 
 Privileged-access **insider-threat detection platform** for banks — FinSpark'26
 (Bank of Maharashtra), Problem Statement 1.
