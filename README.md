@@ -467,10 +467,12 @@ pytest tests/ -v
 
 ---
 
+---
+
 <div align="center">
 
-**Built with curiosity, and a passion for building secure banking systems.**
+**Built with curiosity and a passion for secure banking innovation.**
 
-Made with ❤️ by **Team CuteCAT** for **FinSpark'26**.
+**Designed and developed by Team CuteCAT for FinSpark'26.**
 
 </div>
