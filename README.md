@@ -118,6 +118,8 @@ Traditional SIEM tools detect only **known** patterns. Prahari goes further — 
 
 ## 🏗️ System Architecture
 
+> A modular architecture that combines real-time detection, adaptive response, and post-quantum security into a unified banking platform.
+
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                           FRONTEND (React + Vite + Tailwind)            │
@@ -463,3 +465,12 @@ pytest tests/ -v
 | `test_simulator.py` | Data seeder & baseline generator |
 
 
+---
+
+<div align="center">
+
+**Built with curiosity, and a passion for building secure banking systems.**
+
+Made with ❤️ by **Team CuteCAT** for **FinSpark'26**.
+
+</div>
